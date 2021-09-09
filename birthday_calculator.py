@@ -43,6 +43,7 @@ st.markdown("<h3 style='text-align: center; color: black;'>                 </h5
 st.markdown("<h3 style='text-align: center; color: black;'>                 </h5>", unsafe_allow_html=True)
 
 
-
+#instagram link
 link = '[Just a tiny example app for my Instagram post](https://www.instagram.com/max_mnemo)'
 st.markdown(link, unsafe_allow_html=True)
+
