@@ -8,10 +8,10 @@
 </p>
 
 
-A tiny app made with streamlit that takes the users birthday and outputs the corresponding weekday (monday, tuesday, ...)
+These are all my Jupyter Notebooks that I've created within Anaconda since 2019. 
 
 
-Check out my app with this [Demo](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://choosealicense.com/licenses/mit/)
+Test it out yourself ---> [Demo](https://share.streamlit.io/maximilianfreitag/birthday_calculator/main/birthday_calculator.py)
 
 
 ## License
