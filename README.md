@@ -2,7 +2,7 @@
 
 
 <p align="center">
-    <a href="https://github.com/MaximilianFreitag/JupyterNotebooks">
+    <a href="https://github.com/MaximilianFreitag/birthday_calculator">
         <img src="https://github.com/MaximilianFreitag/birthday_calculator/birth.png">
     </a>
 </p>
