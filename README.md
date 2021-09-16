@@ -3,7 +3,7 @@
 
 <p align="center">
     <a href="https://github.com/MaximilianFreitag/birthday_calculator">
-        <img src="https://github.com/MaximilianFreitag/birthday_calculator/birth.png">
+        <img src="https://github.com/MaximilianFreitag/birthday_calculator/blob/main/birth.png">
     </a>
 </p>
 
