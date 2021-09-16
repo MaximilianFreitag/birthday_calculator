@@ -1,5 +1,5 @@
 ## About The Project
-
+<br />
 
 <p align="center">
     <a href="https://github.com/MaximilianFreitag/birthday_calculator">
@@ -13,6 +13,10 @@ A small app that takes the users birthday and outputs the corresponding weekday 
 
 Test it out yourself ---> [Demo](https://share.streamlit.io/maximilianfreitag/birthday_calculator/main/birthday_calculator.py)
 
+
+<br />
+<br />
+<br />
 
 ## License
 This project falls under the MIT license.
