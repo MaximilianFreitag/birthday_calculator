@@ -36,7 +36,7 @@ st.markdown("<h5 style='text-align: center; color: black;'>                 </h5
 
 d = datetime.date(year, month, day)
 
-st.write(c.day_name[d.weekday()])
+st.write('Your were born on a ... ' + c.day_name[d.weekday()])
 
 #whitespace again
 st.markdown("<h3 style='text-align: center; color: black;'>                 </h5>", unsafe_allow_html=True)
