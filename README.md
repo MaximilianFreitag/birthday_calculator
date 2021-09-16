@@ -3,12 +3,12 @@
 
 <p align="center">
     <a href="https://github.com/MaximilianFreitag/JupyterNotebooks">
-        <img src="https://github.com/MaximilianFreitag/JupyterNotebooks/blob/main/cover_jupyter.png">
+        <img src="https://github.com/MaximilianFreitag/birthday_calculator/birth.png">
     </a>
 </p>
 
 
-These are all my Jupyter Notebooks that I've created within Anaconda since 2019. 
+A small app that takes the users birthday and outputs the corresponding weekday (monday, tuesday, ...)
 
 
 Test it out yourself ---> [Demo](https://share.streamlit.io/maximilianfreitag/birthday_calculator/main/birthday_calculator.py)
