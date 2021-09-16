@@ -7,6 +7,7 @@
     </a>
 </p>
 
+<br />
 
 A small app that takes the users birthday and outputs the corresponding weekday (monday, tuesday, ...)
 
