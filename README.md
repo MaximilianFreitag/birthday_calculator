@@ -1,4 +1,4 @@
-# "On which day were youu born?" application
+# "On which day were you born?" application
 
 
 <p align="center">
