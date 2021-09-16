@@ -1,5 +1,3 @@
-# "On which day were you born?" application
-
 
 <p align="center">
     <a href="https://github.com/MaximilianFreitag/birthday_calculator">
