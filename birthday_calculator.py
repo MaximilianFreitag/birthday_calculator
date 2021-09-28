@@ -6,7 +6,6 @@ import time
 
 
 
-
 #Take a look at your chrome tab. With the code below you can change the header of the page
 st.set_page_config(
         page_title='When were you born?',
