@@ -13,6 +13,7 @@ st.set_page_config(
         )
 
 
+
 #Display a GIF on top of the app
 st.markdown("![Alt Text](https://media.giphy.com/media/KbRBekX2PQtjVdlV8i/giphy.gif?cid=790b7611d454a209ea5ffa7a79b7330d4bc0a9f4ab0190be&rid=giphy.gif&ct=g)")
 
