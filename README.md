@@ -15,10 +15,6 @@ Test it out yourself ---> [Demo](https://share.streamlit.io/maximilianfreitag/bi
 
 <br />
 
-
-
-
-
 <br />
 <br />
 <br />
