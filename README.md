@@ -21,5 +21,6 @@ Test it out yourself ---> [Demo](https://share.streamlit.io/maximilianfreitag/bi
 <br />
 
 
+
 ## License
 This project falls under the MIT license.
