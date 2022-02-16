@@ -5,12 +5,7 @@ A small app that takes the users birthday and outputs the corresponding weekday 
 
 Demo -->  https://share.streamlit.io/maximilianfreitag/birthday_calculator/main/birthday_calculator.py
 
-I was also able to deploy this streamlit app via github pages for a shorter URL. I could also choose a custom domain 
-
---> https://maximilianfreitag.github.io/birthday_calculator
-
-
-
+<br />
 <br />
 
 <p align="center">
