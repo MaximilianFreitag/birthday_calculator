@@ -22,17 +22,9 @@ Demo -->  https://share.streamlit.io/maximilianfreitag/birthday_calculator/main/
 <br />
 
 
-<iframe id="github-iframe" src=""></iframe>
-<script>
-    fetch('https://mango-dune-07a8b7110.1.azurestaticapps.net/?repo=MaximilianFreitag%2Fbirthday_calculator')
-        .then(function(response) {
-            return response.json();
-        }).then(function(data) {
-            var iframe = document.getElementById('github-iframe');
-            iframe.src = 'data:text/html;base64,' + encodeURIComponent(data['content']);
-        });
-</script>
 
+
+<iframe width="100%" height="475" src="https://mango-dune-07a8b7110.1.azurestaticapps.net/?repo=MaximilianFreitag%2Fbirthday_calculator" frameborder="0"></iframe>
 
 
 
