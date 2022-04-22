@@ -17,14 +17,7 @@ Demo -->  https://share.streamlit.io/maximilianfreitag/birthday_calculator/main/
 <br />
 
 
-<br />
-<br />
-<br />
 
-
-
-
-<iframe width="100%" height="475" src="https://mango-dune-07a8b7110.1.azurestaticapps.net/?repo=MaximilianFreitag%2Fbirthday_calculator" frameborder="0"></iframe>
 
 
 
